@@ -3,7 +3,7 @@
   </image>
 </view> -->
 <view>
-  <swiper indicator-dots="{{true}}" autoplay="{{true}}" style="height: 750rpx; width:750rpx;">
+  <swiper indicator-dots="{{true}}" autoplay="{{true}}" previous-margin="65rpx" style="height: 750rpx; width:750rpx;">
     <swiper-item>
       <image src="https://cdn.pixabay.com/photo/2018/06/22/08/24/emotions-3490223_1280.jpg"></image>
     </swiper-item>
