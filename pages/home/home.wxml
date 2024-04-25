@@ -1,3 +1,4 @@
 <view>
-  <text class="title">现在是{{now}}</text>
+  <text class="title">hello {{name}}</text>
+  <button bind:tap="buttonHandler">点击</button>
 </view>
