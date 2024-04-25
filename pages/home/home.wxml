@@ -1,4 +1,17 @@
-<view>
+<!-- <view>
   <image src="https://cdn.pixabay.com/photo/2018/06/22/08/24/emotions-3490223_1280.jpg" style="height: 375rpx; width: 375rpx;">
   </image>
+</view> -->
+<view>
+  <swiper indicator-dots="{{true}}" autoplay="{{true}}" style="height: 750rpx; width:750rpx;">
+    <swiper-item>
+      <image src="https://cdn.pixabay.com/photo/2018/06/22/08/24/emotions-3490223_1280.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="https://cdn.pixabay.com/photo/2017/12/19/18/09/flowers-3028429_640.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="https://cdn.pixabay.com/photo/2024/04/01/05/18/green-8667981_640.jpg"></image>
+    </swiper-item>
+  </swiper>
 </view>
